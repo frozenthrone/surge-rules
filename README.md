@@ -1,2 +1,6 @@
 # surge-rules
-surge rules for oversea use
+
+海外用户翻墙回国
+
+1.听网易云音乐
+2.广告过滤
